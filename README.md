@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrei Rivera</h1>
 <h3 align="center">Future Backend Developer</h3>
 
-- 🌱 I’m currently learning **Graphql, Typescript and Docker**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Languages I speak **English and Spanish**
 
