@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrei Rivera</h1>
-<h3 align="center">Future Backend Developer</h3>
+<h3 align="center">Future Backend Developer | Costa Rica | Videogames Enjoyer</h3>
 
 - 🔭 I’m currently practicing **API's**
 
