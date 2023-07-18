@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently practicing **API's**
 
-- 🌱 I’m currently learning **Docker, AWS, Django, NextJS and tRPC**
-
 - 💬 Ask me about **GraphQL, JavaScript or TypeScript**
 
 - 📫 How to reach me **andreirive2003@gmail.com**
