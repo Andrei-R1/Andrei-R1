@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **dotnet software development**
 
-- 👨‍💻 My portfolio is available at [andreir.me/](https://andreir.me/)
-
 - 💬 Ask me about **GraphQL, Typescript, Python & API's**
 
 - 📫 How to reach me **andreirive2003@gmail.com**
